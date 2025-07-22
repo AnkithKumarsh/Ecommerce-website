@@ -417,10 +417,3 @@ Contributions are welcome! Please follow these guidelines:
 ## License Information
 
 No license specified. All rights reserved.
-
-## Contact/Support Information
-
-For questions or support, please contact:
-
-*   Email: hello@akstylehub.com
-*   Phone: 1800-123-4567
